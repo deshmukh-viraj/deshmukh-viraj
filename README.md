@@ -17,33 +17,26 @@
 </p>
 
 
-<h1 align="center">VIRAJ DESHMUKH</h1>
-<p align="center">
-  AI/ML Engineer focused on turning emerging capabilities into dependable systems
-</p>
+<h1 align="center">VIRAJ DESHMUKH</h1><p align="center">AI/ML Engineer focused on turning emerging capabilities into dependable systems</p>
 
-<pre align="center">
- QKᵀ / √dₖ → softmax → V
-</pre>
+<hr>
 
+<p align="center"><code>QK<sup>T</sup> / √d<sub>k</sub> → softmax → V</code></p>
+
+<hr>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/virajdeshmukh1">
-    <img src="![Uploading image.png…]()
- />
-  </a>
+  <a href="https://www.linkedin.com/in/virajdeshmukh1"><img src="./assets/icons/linkedin.png" width="40" height="40" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:inside.viraj@example.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" />
-  </a>
+  <a href="mailto:inside.viraj@example.com"><img src="./assets/icons/communication.png" width="40" height="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/deshmukh-viraj">
-    <img src="https://cdn.simpleicons.org/github/F5A94A" width="32" height="32" />
-  </a>
+  <a href="https://github.com/deshmukh-viraj"><img src="./assets/icons/github.png" width="40" height="40" /></a>
 </p>
+<br>
 
 ## Engineering the Intelligence Layer:
-
+<div align="justify">
+  
 I engineer AI systems as systems, not prompts. I work on the layer where model capabilities become useful: coordinating context, reasoning, tools, and actions into intelligent workflows that can operate inside real products.
 
 My interest lies in the architecture around AI: how components communicate, how models are orchestrated, how AI applications interact with external tools and services, and how intelligent behavior can remain observable, controllable, and useful beyond a prototype.
@@ -52,11 +45,21 @@ The model is only one component of the product. The real engineering is in the i
 
 Models, frameworks, and integration patterns will continue to change. That is not a blind spot—it is the nature of the field. I build on durable principles:
 clear system boundaries, well-defined contracts, measurable behavior, and the ability to learn and integrate what comes next.
+<div>
+  
+## Current Focus:
+<div align="justify">
+  
+Engineering production-grade AI systems that can reason, act, and improve acrossnthe full lifecycle from context assembly and model routing to tool use, state, evaluation, and secure deployment.
 
+- **Agentic systems:** Designing bounded single and multi-agent workflows with explicit roles, state, reliable handoffs, retries, approvals, and recovery paths.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/virajdeshmukh1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@medium.com/@deshmukh-viraj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inside.viraj@gmail.com) 
+- **AI application infrastructure:** Building the runtime around models through context pipelines, tool interfaces, gateways, routing layers, structured outputs, and interoperable protocols.
 
+- **AI reliability engineering:** Tracing model calls, retrieval, tools, and state across a workflow; using offline and online evaluation to measure quality, latency, cost, and regressions.
+
+- **Trust and control:** Embedding identity, permissions, guardrails, safety, governance, and security into the architecture so AI can act with capability without operating beyond its boundaries.
+<div>
 
 
 
@@ -65,23 +68,6 @@ clear system boundaries, well-defined contracts, measurable behavior, and the ab
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deshmukh-viraj&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=deshmukh-viraj&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deshmukh-viraj&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=deshmukh-viraj&theme=holi&no-frame=true&no-bg=false&margin-w=4)
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=deshmukh-viraj&icon=6&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
