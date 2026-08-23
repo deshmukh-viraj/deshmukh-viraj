@@ -1,11 +1,57 @@
-# About Me:
-As a passionate AI/ML Engineer, I specialize in building intelligent, agentic systems that can reason, adapt, and interact autonomously. My journey blends solid theoretical grounding with hands-on application, spanning across large language models (LLMs), multimodal systems, and real-world ML pipelines.<br><br>Currently, I’m pursuing postgraduation program in Artificial Intelligence & Machine Learning at IIIT Bangalore, and I’m a proud graduate of the McKinsey Forward Program, where I enhanced my strategic thinking, and cross-cultural collaboration skills.
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark )"
+      srcset="dark_mode.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="light_mode.svg"
+    />
+    <img
+      src="dark_mode.svg"
+      alt="Viraj Deshmukh's AI engineering profile card"
+      width="100%"
+    />
+  </picture>
+</p>
 
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdtcjA3b3VsOXZob3ZxN2hvcGp5Mmc3ODdtdjRhOHR4cHI3NzFpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+<h1 align="center">VIRAJ DESHMUKH</h1>
+<p align="center">
+  AI/ML Engineer focused on turning emerging capabilities into dependable systems
+</p>
+
+<pre align="center">
+ QKᵀ / √dₖ → softmax → V
+</pre>
 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/virajdeshmukh1">
+    <img src="![Uploading image.png…]()
+ />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:inside.viraj@example.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/deshmukh-viraj">
+    <img src="https://cdn.simpleicons.org/github/F5A94A" width="32" height="32" />
+  </a>
+</p>
 
+## Engineering the Intelligence Layer:
+
+I engineer AI systems as systems, not prompts. I work on the layer where model capabilities become useful: coordinating context, reasoning, tools, and actions into intelligent workflows that can operate inside real products.
+
+My interest lies in the architecture around AI: how components communicate, how models are orchestrated, how AI applications interact with external tools and services, and how intelligent behavior can remain observable, controllable, and useful beyond a prototype.
+
+The model is only one component of the product. The real engineering is in the interfaces, the orchestration, the data flow, the inference path, and the trade-offs between capability, latency, cost, reliability, and human control.
+
+Models, frameworks, and integration patterns will continue to change. That is not a blind spot—it is the nature of the field. I build on durable principles:
+clear system boundaries, well-defined contracts, measurable behavior, and the ability to learn and integrate what comes next.
 
 
 ## 🌐 Socials:
