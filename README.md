@@ -2,11 +2,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark )"
-      srcset="dark_mode.svg"
+      srcset="dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="light_mode.svg"
+      srcset="light.svg"
     />
     <img
       src="dark_mode.svg"
